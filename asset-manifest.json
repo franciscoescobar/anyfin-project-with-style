@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anyfin-project-with-style/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/anyfin-project-with-style/static/js/main.cd2c387b.chunk.js",
+    "main.js.map": "/anyfin-project-with-style/static/js/main.cd2c387b.chunk.js.map",
+    "runtime-main.js": "/anyfin-project-with-style/static/js/runtime-main.7387e03b.js",
+    "runtime-main.js.map": "/anyfin-project-with-style/static/js/runtime-main.7387e03b.js.map",
+    "static/js/2.5c1c4c34.chunk.js": "/anyfin-project-with-style/static/js/2.5c1c4c34.chunk.js",
+    "static/js/2.5c1c4c34.chunk.js.map": "/anyfin-project-with-style/static/js/2.5c1c4c34.chunk.js.map",
+    "index.html": "/anyfin-project-with-style/index.html",
+    "precache-manifest.082d7b24c12909d7f7eacefc35995ef4.js": "/anyfin-project-with-style/precache-manifest.082d7b24c12909d7f7eacefc35995ef4.js",
+    "service-worker.js": "/anyfin-project-with-style/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/anyfin-project-with-style/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5c1c4c34.chunk.js.LICENSE.txt": "/anyfin-project-with-style/static/js/2.5c1c4c34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7387e03b.js",
+    "static/js/2.5c1c4c34.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cd2c387b.chunk.js"
+  ]
+}
